@@ -1,0 +1,6 @@
+- name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: 098765432hgfd
+        aws-secret-access-key: kmhjfdhgf564
+        aws-region: us-east-2
